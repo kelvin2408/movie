@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers Endgame",
+    "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Avenger-Endgame.jpg",
+    "skor": "9.0",
+    "genre": {
+      "genre1": "Action",
+      "genre2": "Superhero"
+    },
+    "durasi": "190 menit",
+    "sutradara": "Joe Russo & Anthony Russo",
+    "rating": "13 Tahun++",
+    "sinopsis": "The grave course of events set in motion by Thanos, that wiped out half the universe and fractured the Avengers ranks, compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films"
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight Rises",
+    "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/TheDarkKnightRises.jpg",
+    "skor": "9.2",
+    "genre": {
+      "genre1": "Action",
+      "genre2": "Superhero"
+    },
+    "durasi": "176 menit",
+    "sutradara": "Christopher Nolan",
+    "rating": "13 Tahun++",
+    "sinopsis": "From a far side of the world, a lunatic rises from the darkness, determined to annihilate the city of the Dark Knight, who has been hiding for eight years. Joining forces with old and new allies, Bruce Wayne must put his mask on one last time to finish what he had started and become a hero again."
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Inception.jpg",
+    "skor": "8.8",
+    "genre": {
+      "genre1": "Action",
+      "genre2": "Sci-fi"
+    },
+    "durasi": "148 menit",
+    "sutradara": "Christopher Nolan",
+    "rating": "13 Tahun++",
+    "sinopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "id": 4,
+    "title": "Frozen",
+    "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Frozen.jpg",
+    "skor": "8.5",
+    "genre": {
+      "genre1": "Animation",
+      "genre2": "Musical"
+    },
+    "durasi": "102 menit",
+    "sutradara": "Christopher Nolan",
+    "rating": "Semua Umur",
+    "sinopsis": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition."
+  }
+]
