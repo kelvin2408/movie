@@ -4,9 +4,7 @@
     "title": "Warcraft",
     "image": "https://raw.githubusercontent.com/kelvin2408/movie/list/Warcraft.jpg",
     "skor": "6.8",
-    "genre": {
-      "genre": "Action,Adventure",
-    },
+    "genre": "Action,Adventure",
     "durasi": "123 menit",
     "sutradara": "Duncan Jones",
     "rating": "13 Tahun++",
@@ -17,9 +15,7 @@
     "title": "A Quiet Place",
     "image": "",
     "skor": "7.5",
-    "genre": {
-      "genre1": "Drama,Horror",
-    },
+    "genre": "Drama,Horror",
     "durasi": "90 menit",
     "sutradara": "John Krasinski",
     "rating": "13 Tahun++",
@@ -30,9 +26,7 @@
     "title": "The Witcher S01",
     "image": "https://raw.githubusercontent.com/kelvin2408/movie/list/The_WItcher.jpg",
     "skor": "8.3",
-    "genre": {
-      "genre1": "Action,Adventure",
-    },
+    "genre": "Action,Adventure",
     "durasi": "60 menit/episode",
     "sutradara": " Lauren Schmidt",
     "rating": "13 Tahun++",
@@ -43,9 +37,7 @@
     "title": "The Hobbit: The Desolation of Smaug",
     "image": "https://raw.githubusercontent.com/kelvin2408/movie/list/the-hobbit.jpg",
     "skor": "7.8",
-    "genre": {
-      "genre1": "Adventure,Fantasy",
-    },
+    "genre": "Adventure,Fantasy",
     "durasi": "162 menit",
     "sutradara": "Peter Jackson",
     "rating": "13 Tahun++",
