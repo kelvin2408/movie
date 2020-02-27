@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Warcraft",
-    "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Avenger-Endgame.jpg",
+    "image": "",
     "skor": "6.8",
     "genre": {
       "genre1": "Action",
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "title": "A Quiet Place",
-    "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/TheDarkKnightRises.jpg",
+    "image": "",
     "skor": "7.5",
     "genre": {
       "genre1": "Drama",
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "title": "The Witcher S01",
-    "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Inception.jpg",
+    "image": "",
     "skor": "8.3",
     "genre": {
       "genre1": "Action",
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "title": "The Hobbit: The Desolation of Smaug",
-    "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Frozen.jpg",
+    "image": "",
     "skor": "7.8",
     "genre": {
       "genre1": "Adventure",
