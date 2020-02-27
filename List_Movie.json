@@ -1,58 +1,58 @@
 [
   {
     "id": 1,
-    "title": "Avengers Endgame",
+    "title": "Warcraft",
     "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Avenger-Endgame.jpg",
-    "skor": "9.0",
+    "skor": "6.8",
     "genre": {
       "genre1": "Action",
-      "genre2": "Superhero"
+      "genre2": "Adventure"
     },
-    "durasi": "190 menit",
-    "sutradara": "Joe Russo & Anthony Russo",
+    "durasi": "123 menit",
+    "sutradara": "Duncan Jones",
     "rating": "13 Tahun++",
-    "sinopsis": "The grave course of events set in motion by Thanos, that wiped out half the universe and fractured the Avengers ranks, compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films"
+    "sinopsis": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war"
   },
   {
     "id": 2,
-    "title": "The Dark Knight Rises",
+    "title": "A Quiet Place",
     "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/TheDarkKnightRises.jpg",
-    "skor": "9.2",
+    "skor": "7.5",
     "genre": {
-      "genre1": "Action",
-      "genre2": "Superhero"
+      "genre1": "Drama",
+      "genre2": "Horror"
     },
-    "durasi": "176 menit",
-    "sutradara": "Christopher Nolan",
+    "durasi": "90 menit",
+    "sutradara": "John Krasinski",
     "rating": "13 Tahun++",
-    "sinopsis": "From a far side of the world, a lunatic rises from the darkness, determined to annihilate the city of the Dark Knight, who has been hiding for eight years. Joining forces with old and new allies, Bruce Wayne must put his mask on one last time to finish what he had started and become a hero again."
+    "sinopsis": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing."
   },
   {
     "id": 3,
-    "title": "Inception",
+    "title": "The Witcher S01",
     "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Inception.jpg",
-    "skor": "8.8",
+    "skor": "8.3",
     "genre": {
       "genre1": "Action",
-      "genre2": "Sci-fi"
+      "genre2": "Adventure"
     },
-    "durasi": "148 menit",
-    "sutradara": "Christopher Nolan",
+    "durasi": "60 menit/episode",
+    "sutradara": " Lauren Schmidt",
     "rating": "13 Tahun++",
-    "sinopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+    "sinopsis": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts."
   },
   {
     "id": 4,
-    "title": "Frozen",
+    "title": "The Hobbit: The Desolation of Smaug",
     "image": "https://raw.githubusercontent.com/Kayama21/detail-movie/master/posters/Frozen.jpg",
-    "skor": "8.5",
+    "skor": "7.8",
     "genre": {
-      "genre1": "Animation",
-      "genre2": "Musical"
+      "genre1": "Adventure",
+      "genre2": "Fantasy"
     },
-    "durasi": "102 menit",
-    "sutradara": "Christopher Nolan",
-    "rating": "Semua Umur",
-    "sinopsis": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition."
+    "durasi": "162 menit",
+    "sutradara": "Peter Jackson",
+    "rating": "13 Tahun++",
+    "sinopsis": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."
   }
 ]
